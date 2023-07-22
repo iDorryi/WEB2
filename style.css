@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a, a:link, a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.logo_header {
+    padding-right: 500px;
+    ;
+
+}
+
+.header {
+    padding-top: 51px;
+
+}
+
+.title {
+    margin-top: 164px;
+    margin-bottom: 17px;
+    margin-left: 375px;
+}
+
+.subtitle {
+    padding-left: 371px;
+}
+
+
+.buttons_main {
+    padding-top: 52px;
+    padding-left: 410px;
+}
+
+.bottom_main {
+    margin-top: 178px;
+}
